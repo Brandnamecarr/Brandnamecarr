@@ -33,7 +33,7 @@ Here are some of the projects I've been working on:
 -->
 ## GitHub Stats
 
-![Brandnamecarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brandnamecarr&show_icons=true&theme=radical)
+![Brandnamecarr's GitHub stats](https://github-readme-stats.shion.dev/api?username=Brandnamecarr&show_icons=true&theme=radical)
 
 ## Contact Me
 
